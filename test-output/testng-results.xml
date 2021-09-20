@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="43868" started-at="2021-09-16T14:54:11 ART" finished-at="2021-09-16T14:54:54 ART">
+  <suite name="Default suite" duration-ms="37307" started-at="2021-09-20T16:26:21 ART" finished-at="2021-09-20T16:26:58 ART">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="43868" started-at="2021-09-16T14:54:11 ART" finished-at="2021-09-16T14:54:54 ART">
+    <test name="Default test" duration-ms="37307" started-at="2021-09-20T16:26:21 ART" finished-at="2021-09-20T16:26:58 ART">
       <class name="searchTests.TestSearch">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:searchTests.TestSearch@762ef0ea]" name="setUp" is-config="true" duration-ms="7929" started-at="2021-09-16T14:54:11 ART" finished-at="2021-09-16T14:54:19 ART">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:searchTests.TestSearch@762ef0ea]" name="setUp" is-config="true" duration-ms="19413" started-at="2021-09-20T16:26:21 ART" finished-at="2021-09-20T16:26:40 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="searchPlaystation()[pri:0, instance:searchTests.TestSearch@762ef0ea]" name="searchPlaystation" duration-ms="30949" started-at="2021-09-16T14:54:19 ART" description="search playstation 4 and add it to cart" finished-at="2021-09-16T14:54:50 ART">
+        <test-method status="PASS" signature="searchPlaystation()[pri:0, instance:searchTests.TestSearch@762ef0ea]" name="searchPlaystation" duration-ms="13103" started-at="2021-09-20T16:26:40 ART" description="search playstation 4 and add it to cart" finished-at="2021-09-20T16:26:53 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchPlaystation -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:searchTests.TestSearch@762ef0ea]" name="tearDown" is-config="true" duration-ms="4945" started-at="2021-09-16T14:54:50 ART" finished-at="2021-09-16T14:54:54 ART">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:searchTests.TestSearch@762ef0ea]" name="tearDown" is-config="true" duration-ms="4750" started-at="2021-09-20T16:26:53 ART" finished-at="2021-09-20T16:26:58 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
