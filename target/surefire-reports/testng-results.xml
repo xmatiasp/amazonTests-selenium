@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="searchTests.TestSearch" duration-ms="31355" started-at="2021-09-16T15:06:00 ART" finished-at="2021-09-16T15:06:31 ART">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="31355" started-at="2021-09-16T15:06:00 ART" finished-at="2021-09-16T15:06:31 ART">
+      <class name="searchTests.TestSearch">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:searchTests.TestSearch@2f4948e4]" name="setUp" is-config="true" duration-ms="9783" started-at="2021-09-16T15:06:00 ART" finished-at="2021-09-16T15:06:10 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchPlaystation()[pri:0, instance:searchTests.TestSearch@2f4948e4]" name="searchPlaystation" duration-ms="16776" started-at="2021-09-16T15:06:10 ART" description="search playstation 4 and add it to cart" finished-at="2021-09-16T15:06:27 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPlaystation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:searchTests.TestSearch@2f4948e4]" name="tearDown" is-config="true" duration-ms="4757" started-at="2021-09-16T15:06:27 ART" finished-at="2021-09-16T15:06:31 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- searchTests.TestSearch -->
+    </test> <!-- Command line test -->
+  </suite> <!-- searchTests.TestSearch -->
+</testng-results>
